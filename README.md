@@ -1,4 +1,4 @@
-Hi :wave: My name is Natanael Vitorino
+Hi, Hallo, Kon'nichiwa! My name is Natanael Vitorino
 =========================================================================================================================================
 
 Jr. Artificial Intelligence Analyst
