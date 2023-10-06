@@ -60,6 +60,12 @@ With a background in Mechatronics and Computer Engineering, I am a Jr. Artificia
     </a>
     </p>
 
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/natavito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+</ul>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -78,21 +84,3 @@ With a background in Mechatronics and Computer Engineering, I am a Jr. Artificia
 <a href="https://github.com/nata-vito/CAN-transceivers-on-Jetson-AGX-Xavier" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nata-vito&repo=CAN-transceivers-on-Jetson-AGX-Xavier&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 </div>
-
-<div width="100%" align="center">
-    <a href="https://github.com/nata-vito/devops_studies" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nata-vito&repo=devops_studies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
-
-
-<br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
-
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/natavito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-</ul>
