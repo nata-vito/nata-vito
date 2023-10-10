@@ -65,17 +65,3 @@ With a background in Mechatronics and Computer Engineering, I am a Jr. Artificia
 
 <a href="https://www.buymeacoffee.com/natavito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
----
-
-### Badges
-
-<b>My GitHub Stats</b>
----
-<div>
-    <a href="http://www.github.com/nata-vito">
-        <img src="https://github-readme-stats.vercel.app/api?username=nata-vito&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nata-vito's GitHub stats" width="345" height="180"/>
-    </a>
-    <a href="http://www.github.com/nata-vito">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nata-vito&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380" height="180"/>
-    </a>
-</div>
