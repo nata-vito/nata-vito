@@ -9,7 +9,7 @@ My career includes participation in both commercial Machine Learning projects an
 *   ✉️  You can contact me at [vitorino.natanael@outlook.com](mailto:vitorino.natanael@outlook.com)
 *   🧠  I'm learning LMMs
 *   🤝  I'm open to collaborating on ROS Projects
-* 
+
 ### Skills 
 
 <p align="left">
