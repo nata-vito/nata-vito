@@ -4,15 +4,15 @@ Hi, Hallo, Kon'nichiwa! My name is Natanael Vitorino
 Jr. Artificial Intelligence Analyst
 -----------------------------------
 
-With a background in Mechatronics and Computer Engineering, I am a Jr. Artificial Intelligence Analyst at the Research and Development Center BRAIN. I have experience in developing embedded systems using CAN protocol, and have participated as a scientific initiator in the Rota 2030 Program - Mobility and Logistics, a federal government strategy for automotive development in Brazil. I have skills in ROS, OpenCV, Python, C/C++, JavaScript, HTML, CSS, and Docker, and I keep expanding my knowledge to keep up with the latest technologies and trends in the industry.
+I am a Junior Artificial Intelligence Analyst with experience in Machine Learning and Computer Vision. I am currently participating in an academic exchange supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. Additionally, I am pursuing a degree in Computer Engineering at Centro Universitário Facens and have a technical background in Mechatronics from Centro Paula Souza.
+
+My career includes participation in both commercial Machine Learning projects and academic research, constantly seeking to improve and learn continuously. I have skills in ROS, OpenCV, Python, C, C++, YOLO, Docker, DevOps, CAN protocol, and AWS, and I am currently exploring Generative AI with a focus on LLMs. I am prepared to contribute significantly in environments that value innovation and technological development.
 
 *   🌍  I'm based in Sorocaba, SP, BR
 *   ✉️  You can contact me at [vitorino.natanael@outlook.com](mailto:vitorino.natanael@outlook.com)
-*   🚀  I'm currently working on [Devops Studies](http://github.com/nata-vito/devops_studies)
-*   🧠  I'm learning AWS Cloud, Vue, React and more
+*   🧠  I'm learning LMMs
 *   🤝  I'm open to collaborating on ROS Projects
-*   ⚡  I'm secretly American Captain... But don't tell anyone
-
+* 
 ### Skills 
 
 <p align="left">
