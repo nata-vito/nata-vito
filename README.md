@@ -1,9 +1,6 @@
 Hi, Hallo, Kon'nichiwa! My name is Natanael Vitorino
 =========================================================================================================================================
 
-Jr. Artificial Intelligence Analyst
------------------------------------
-
 I am a Junior Artificial Intelligence Analyst with experience in Machine Learning and Computer Vision. I am currently participating in an academic exchange supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. Additionally, I am pursuing a degree in Computer Engineering at Centro Universitário Facens and have a technical background in Mechatronics from Centro Paula Souza.
 
 My career includes participation in both commercial Machine Learning projects and academic research, constantly seeking to improve and learn continuously. I have skills in ROS, OpenCV, Python, C, C++, YOLO, Docker, DevOps, CAN protocol, and AWS, and I am currently exploring Generative AI with a focus on LLMs. I am prepared to contribute significantly in environments that value innovation and technological development.
