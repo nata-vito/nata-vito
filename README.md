@@ -1,9 +1,9 @@
 Hi, Hallo, Kon'nichiwa! My name is Natanael Vitorino
 =========================================================================================================================================
 
-I am a Junior Artificial Intelligence Analyst with experience in Machine Learning and Computer Vision. I am currently participating in an academic exchange supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. Additionally, I am pursuing a degree in Computer Engineering at Centro Universitário Facens and have a technical background in Mechatronics from Centro Paula Souza.
+Junior Artificial Intelligence Analyst specialized in Machine Learning, Computer Vision, and ADAS. Currently, I am participating in an academic exchange program supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. I am also pursuing a degree in Computer Engineering at Centro Universitário Facens and hold a technical degree in Mechatronics from Centro Paula Souza.
 
-My career includes participation in both commercial Machine Learning projects and academic research, constantly seeking to improve and learn continuously. I have skills in ROS, OpenCV, Python, C, C++, YOLO, Docker, DevOps, CAN protocol, and AWS, and I am currently exploring Generative AI with a focus on LLMs. I am prepared to contribute significantly in environments that value innovation and technological development.
+My career combines experience in commercial Machine Learning projects with academic research, always focusing on continuous improvement and knowledge expansion. I am proficient in TensorFlow, ROS, OpenCV, Python, C, C++, YOLO, Docker, DevOps, CAN protocol, AWS, and Generative AI with an emphasis on LLMs.
 
 *   🌍  I'm based in Sorocaba, SP, BR
 *   ✉️  You can contact me at [vitorino.natanael@outlook.com](mailto:vitorino.natanael@outlook.com)
