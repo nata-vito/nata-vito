@@ -1,7 +1,7 @@
 Hi, I am Natanael Vitorino
 =========================================================================================================================================
 
-Junior Artificial Intelligence Analyst specialized in Machine Learning, Computer Vision, and ADAS. Currently, I am participating in an academic exchange program supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. I am also pursuing a degree in Computer Engineering at Centro Universitário Facens and hold a technical degree in Mechatronics from Centro Paula Souza.
+I am responsible for the technical leadership of Artificial Intelligence projects, leading multidisciplinary teams in the development of solutions based on machine learning, computer vision, generative AI, and data analysis. I participated in an academic exchange program supported by BAYLAT in Germany, where I am developing a digital twin for LiDAR sensors at the CARISSMA research center. I am also studying Computer Engineering at Facens University Center and have a technical degree in Mechatronics from Paula Souza Center.
 
 My career combines experience in commercial Machine Learning projects with academic research, always focusing on continuous improvement and knowledge expansion. I am proficient in TensorFlow, ROS, OpenCV, Python, C, C++, YOLO, Docker, DevOps, CAN protocol, AWS, and Generative AI with an emphasis on LLMs.
 
