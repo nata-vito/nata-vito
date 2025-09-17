@@ -7,8 +7,8 @@ My career combines experience in commercial Machine Learning projects with acade
 
 *   🌍  I'm based in Sorocaba, SP, BR
 *   ✉️  You can contact me at [vitorino.natanael@outlook.com](mailto:vitorino.natanael@outlook.com)
-*   🧠  I'm learning LMMs
-*   🤝  I'm open to collaborating on ADAS & IA Projects
+*   🧠  I'm learning LLMs
+*   🤝  I'm open to collaborating on ADAS & AI Projects
 
 ---
 ### Support Me
